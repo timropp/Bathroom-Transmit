@@ -11,8 +11,6 @@
 #include <RF24_config.h>
 #include <SPI.h>
 
-#include <Adafruit_NeoPixel.h>
-
 #define debugMode TRUE // activate serial output and additional tests if set to true
 #define SwitchPin 8 // door sensor is connected to this pin
 
